@@ -60,10 +60,37 @@ We will use 6 ML classifications algorithms:
 
 # 5. EDA:
 
-## 5.1 Dependent Variables:
+## 5.1 Histogram:
+
+![image](https://user-images.githubusercontent.com/64850893/146966939-479bc57a-ee1b-4a84-bbc9-6475fa59a8cc.png)
+
+## 5.2 Boxplot:
+
+![image](https://user-images.githubusercontent.com/64850893/146967610-934a625c-df02-4f77-bcd9-a94f8130eca1.png)
+
+## 5.3 Correlation:
+
+![image](https://user-images.githubusercontent.com/64850893/146967367-449fbaff-8f1a-4429-a1a0-62b9797a2609.png)
+
+## 5.4 Dependent Variables (Outcome)
 
 ![image](https://user-images.githubusercontent.com/64850893/146965415-3a7a8ca6-f3b7-48f3-8ebf-75b29ab6d583.png)
 
 Imbalanced dataset, will upsample later.
+
+## 5.5 Outcome vs Glucose
+
+![image](https://user-images.githubusercontent.com/64850893/146967740-21141c43-aa62-4422-a0a1-b1c84e0e3594.png)
+
+* It seems like that diabetic people tend to have a greater glucose level.
+
+## 5.6 Outcome vs Blood Pressure
+
+![image](https://user-images.githubusercontent.com/64850893/146968054-26a66179-98ac-405e-9fda-1a041a95db57.png)
+
+* Patients with diabetes tend to have higher blood pressure.
+
+# 6. Modeling
+
 
 
