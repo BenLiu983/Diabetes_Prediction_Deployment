@@ -2,7 +2,7 @@
 
 # Product Link: https://diabetes-prediction-v1.azurewebsites.net/
 
-![image](https://user-images.githubusercontent.com/64850893/146972654-d0f97b0a-e947-485f-a102-91fc9241a74b.png)
+![image](https://user-images.githubusercontent.com/64850893/146972754-a16a2eae-ebd2-40b6-a896-3eca85158bcd.png)
 
 # 1. Objective
 
