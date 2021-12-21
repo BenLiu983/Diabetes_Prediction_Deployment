@@ -1,6 +1,6 @@
 # Diabetes Prediction and Deployment
 
-# Product Link: https://diabetes-prediction-v1.azurewebsites.net/
+## Product Link: https://diabetes-prediction-v1.azurewebsites.net/
 
 ![image](https://user-images.githubusercontent.com/64850893/146972754-a16a2eae-ebd2-40b6-a896-3eca85158bcd.png)
 
@@ -17,7 +17,7 @@ In particular, all patients here are females at least 21 years old of Pima India
 
 Link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-# 3. Variable intepretation:
+# 3. Variable interpretation:
 
 ![image](https://user-images.githubusercontent.com/64850893/146964353-c0ca0168-51e2-486a-ab76-18e5ff4f6eea.png)
 
@@ -47,18 +47,17 @@ Outcome: 1 (diabetes) or 0.
 
 We will use 6 ML classifications algorithms:
 
-1. Naive Bayes
+1. Naive Bayes.
 
-2. Logistic Regression
+2. Logistic Regression.
 
-3. KNN
+3. KNN.
 
-4. Support Vector Classifier
+4. Support Vector Classifier.
 
-5. Decision Tree
+5. Decision Tree.
 
-6. Random Forest 
-
+6. Random Forest.
 
 # 5. EDA:
 
@@ -78,7 +77,7 @@ We will use 6 ML classifications algorithms:
 
 ![image](https://user-images.githubusercontent.com/64850893/146965415-3a7a8ca6-f3b7-48f3-8ebf-75b29ab6d583.png)
 
-Imbalanced dataset, will upsample later.
+* It is an imbalanced dataset and we will upsample later.
 
 ## 5.5 Outcome vs Glucose
 
@@ -94,13 +93,13 @@ Imbalanced dataset, will upsample later.
 
 # 6. Modeling
 
-6.1 Upsampling
+6.1 Upsampling.
 
-6.2 Train-Test-Split
+6.2 Train-Test-Split.
 
-6.3 Generate data pipelines for production
+6.3 Generate data pipelines for production.
 
-6.4 Apply the models and create the confusion matrix
+6.4 Apply the models and create the confusion matrix.
 
 ![image](https://user-images.githubusercontent.com/64850893/146971968-114c283f-a14d-4d67-b823-4fd6159776f4.png)
 
