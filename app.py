@@ -10,7 +10,7 @@ def index():
             pregnancies = request.form.get("pregnancies")
             glucose = request.form.get("glucose")
             bloodpressure = request.form.get("bloodpressure")
-            skinthikness = request.form.get("skinthikness")
+            skinthickness = request.form.get("skinthickness")
             insulin = request.form.get("insulin")
             bmi = request.form.get("bmi")
             dpfunc = request.form.get("dpfunc")
@@ -21,7 +21,7 @@ def index():
                 pregnancies, 
                 glucose, 
                 bloodpressure, 
-                skinthikness, 
+                skinthickness, 
                 insulin,
                 bmi,
                 dpfunc,
