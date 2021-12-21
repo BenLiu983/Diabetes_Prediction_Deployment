@@ -92,5 +92,22 @@ Imbalanced dataset, will upsample later.
 
 # 6. Modeling
 
+6.1 Upsampling
+
+6.2 Train-Test-Split
+
+6.3 Generate data pipelines for production
+
+6.4 Apply the models and create the confusion matrix
+
+![image](https://user-images.githubusercontent.com/64850893/146971968-114c283f-a14d-4d67-b823-4fd6159776f4.png)
+
+# 7. Front End development with HTML and CSS
+
+# 8. Back End development with Python and Flask
+
+# 9. Deployment on Azure.
+
+
 
 
