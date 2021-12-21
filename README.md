@@ -2,6 +2,8 @@
 
 # Product Link: https://diabetes-prediction-v1.azurewebsites.net/
 
+![image](https://user-images.githubusercontent.com/64850893/146972654-d0f97b0a-e947-485f-a102-91fc9241a74b.png)
+
 # 1. Objective
 
 Forecast the probability of diabetes for a given group of patients using 6 Machine Learning classifications models, develop and deploy the web app with HTML, CSS, Flask, and Azure.
@@ -106,7 +108,7 @@ Imbalanced dataset, will upsample later.
 
 # 8. Back End development with Python and Flask
 
-# 9. Deployment on Azure.
+# 9. Deployment on Azure
 
 
 
