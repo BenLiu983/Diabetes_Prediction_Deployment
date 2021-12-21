@@ -13,24 +13,49 @@ In particular, all patients here are females at least 21 years old of Pima India
 
 Link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-
-
-
 # 3. Variable intepretation:
 
+![image](https://user-images.githubusercontent.com/64850893/146964353-c0ca0168-51e2-486a-ab76-18e5ff4f6eea.png)
+
 ## Independent Variables:
-### 1. Pregnancies：Number of times pregnant.
-### 2. Glucose：Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
-### 3. BloodPressure: Diastolic blood pressure (mm Hg)
-### 4. SkinThickness: Triceps skin fold thickness (mm)
-### 5. Insulin: 2-Hour serum insulin (mu U/ml)
-### 6. BMI: Body mass index (weight in kg/(height in m)^2)
-### 7. DiabetesPedigreeFunction: Diabetes pedigree function
-### 8. Age: years.
+
+1. Pregnancies：Number of times pregnant.
+  
+2. Glucose：Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
+
+3. BloodPressure: Diastolic blood pressure (mm Hg).
+
+4. SkinThickness: Triceps skin fold thickness (mm).
+
+5. Insulin: 2-Hour serum insulin (mu U/ml).
+
+6. BMI: Body mass index (weight in kg/(height in m)^2)
+
+7. DiabetesPedigreeFunction: Diabetes pedigree function
+
+8. Age: years.
 
 ## Dependent Variables:
-### Outcome: 1 (diabetes) or 0. 
+
+Outcome: 1 (diabetes) or 0. 
 
 # 4. Methodology
 
-# 5. Modeling:
+We will use 6 ML classifications algorithms:
+
+1. Naive Bayes
+
+2. Logistic Regression
+
+3. KNN
+
+4. Support Vector Classifier
+
+5. Decision Tree
+
+6. Random Forest 
+
+
+# 5. EDA:
+
+
